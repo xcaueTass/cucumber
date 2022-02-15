@@ -1,11 +1,6 @@
 # Compiled
-*.elc
+*.settings
+*.project
+*.classpath
 
-# Packaging
-.cask
-
-# Backup files
-*~
-
-# Undo-tree save-files
-*.~undo-tree
+/target/
